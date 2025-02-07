@@ -1,0 +1,13 @@
+Steps to Follow:
+
+1. Open the Master 3.1.2.xlsm (Excel file) present in the MASTER Folder
+
+2. Then Update the File Path of Test Folder (where all the related files resides) in the mentioned Cell (B3) of Data Connection (First Worksheet) Master 3.1.2.xlsm (Excel file) to process the analytical report properly
+
+3. Then, Press (Ctrl + q) to process the Master File and all the relevant Connections
+
+4. Wait for few Seconds to let the excel file refresh all the data connections
+
+5. Close the Excel file and open the Main Report File and Press Refresh Button present under Home Tab > Queries
+
+6. Start Reviewing
