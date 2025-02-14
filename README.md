@@ -1,4 +1,4 @@
-# 📊 Financial Analysis – Actual vs Budget
+# 📊 Financial Analysis – Actual vs Budget [Eurofins]
 
 ## 🚀 Overview
 This **Power BI report** provides an in-depth **financial analysis** comparing **actual vs. budgeted performance** for key financial metrics such as **revenues, expenses, contribution margins, and profitability**. Designed for **Eurofins**, this dashboard enables business decision-makers to track financial variances and optimize cost efficiency.
@@ -7,15 +7,14 @@ This **Power BI report** provides an in-depth **financial analysis** comparing *
 - **Variance Analysis:** Breakdown of revenue and expense deviations.
 - **Profit & Loss Insights:** Visualization of EBITDA, EBITAS, and Net Profit.
 - **Dynamic Dashboards:** Interactive filtering for detailed financial tracking.
-- **Multiple Formats Available:** PBIX (Power BI), MP4 (Walkthrough Video), PDF (Report), PPSX (PowerPoint Slideshow).
 
 ---
 
 ## 📽️ Dashboard Walkthrough (Live Demo)
 
-[![Watch the Demo](https://github.com/yourusername/repositoryname/blob/main/demo.gif)](https://youtu.be/your-video-id)
+[![Watch the Demo](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/blob/e27699f1ae219eb27296e96ec9261d346710958a/Project%20Report%20%5BEurofins%5D/images/financial_analysis_actual_vs_budget_eurofins_clips.gif)](https://youtu.be/your-video-id)
 
-> **Click on the image above** to watch the interactive Power BI walkthrough on YouTube.
+> **Click on the image above** to watch the interactive Power BI walkthrough.
 
 🔹 **[📽️ Full MP4 Walkthrough](https://drive.google.com/your-file-link)**  
 🔹 **[🎥 PowerPoint Show (PPSX)](https://drive.google.com/your-file-link)**  
