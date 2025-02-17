@@ -27,14 +27,36 @@ This **Power BI report** provides an in-depth **financial analysis** comparing *
 
 ---
 
-## 📂 Files Available
-| File Type | Description |
-|-----------|-------------|
-| **`Financial_Analysis.pbix`** | Power BI file with interactive dashboards |
-| **`Financial_Analysis.mp4`** | Walkthrough video of the dashboard |
-| **`Financial_Analysis.pdf`** | Static version of the report |
-| **`Financial_Analysis.pptx`** | PowerPoint version of the report |
-| **`Financial_Analysis.ppsx`** | PowerPoint Slideshow |
+## 📂 Main Files Available
+| File Type | File Name | Description | Link |
+|-----------|-----------|-------------|------|
+| **`.PBIX`** | **`Financial Analysis – Actual vs Budget [Eurofins].pbix`** | Power BI file with interactive dashboards | [GO TO](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/raw/refs/heads/main/Project%20Report%20%5BEurofins%5D/report/Financial%20Analysis%20%E2%80%93%20Actual%20vs%20Budget%20%5BEurofins%5D.pbix) |
+| **`.MP4`** | **`financial_analysis_actual_vs_budget_eurofins_journey.mp4`** | Walkthrough video of the dashboard | [GO TO](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/raw/refs/heads/main/Project%20Report%20%5BEurofins%5D/images/others/financial_analysis_actual_vs_budget_eurofins_clips.mp4) |
+| **`.PDF`** | **`financial_analysis_actual_vs_budget_eurofins.pdf`** | Static version of the report | [GO TO](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/blob/c44d328dffe9d3b43a5d5321f900a296e2cdd4b7/Project%20Report%20%5BEurofins%5D/images/others/financial_analysis_actual_vs_budget_eurofins.pdf) |
+| **`.PPTX`** | **`financial_analysis_actual_vs_budget_eurofins_slide.pptx`** | PowerPoint version of the report | [GO TO](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/raw/refs/heads/main/Project%20Report%20%5BEurofins%5D/images/others/financial_analysis_actual_vs_budget_eurofins_slide.pptx) |
+| **`.PPSX`** | **`financial_analysis_actual_vs_budget_eurofins_slideshow.ppsx`** | PowerPoint Slideshow | [GO TO](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/raw/refs/heads/main/Project%20Report%20%5BEurofins%5D/images/others/financial_analysis_actual_vs_budget_eurofins_slideshow.ppsx) |
+| **`.XLSM`** | **`Dummyfied Data 1.4.7.xlsm`** | Dummy Data for operating Power BI file | [GO TO](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/raw/refs/heads/main/Project%20Report%20%5BEurofins%5D/dummy_data/MASTER/Dummyfied%20Data%201.4.7.xlsm) |
+
+---
+
+## ✨ Business Challenges
+
+This project was a collaborative effort to streamline financial data management and enhance reporting capabilities, addressing several operational challenges while adhering to established protocols:
+
+- **Data Organization & ETL Simplification:**  
+  The financial data was spread across multiple Excel files with varying structures and naming conventions. We introduced a robust folder structure, standardized naming protocols, and automated key processes using Power Query and VBA, significantly simplifying the ETL process.
+
+- **Clarifying Data Insights:**  
+  With initial uncertainties about the actionable potential of the data, we provided strategic guidance during the requirement gathering phase. This helped in setting clear, realistic expectations and in extracting valuable insights from the available data.
+
+- **Navigating IT Security Protocols:**  
+  The project required strict adherence to internal IT security measures, including the use of a specific Power BI version. We adapted our solutions to align with these protocols, ensuring seamless integration and operational compliance.
+
+- **Enhancing Data Governance:**  
+  To improve internal data management, we assisted in transitioning to a centralized SharePoint framework. This change enabled secure, role-based access to sensitive financial data, promoting better governance and data security.
+
+- **Optimizing Performance on Limited Systems:**  
+  Recognizing the constraints of existing low-end systems, we optimized the Power BI solution to ensure a smooth, responsive user experience, mitigating technical challenges and enhancing overall performance.
 
 ---
 
