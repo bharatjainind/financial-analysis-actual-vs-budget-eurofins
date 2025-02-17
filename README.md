@@ -12,12 +12,18 @@ This **Power BI report** provides an in-depth **financial analysis** comparing *
 
 ## 📽️ Dashboard Glimpses (Live)
 
-[![Watch the Demo](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/blob/e27699f1ae219eb27296e96ec9261d346710958a/Project%20Report%20%5BEurofins%5D/images/financial_analysis_actual_vs_budget_eurofins_clips.gif)]([https://youtu.be/your-video-id](https://drive.google.com/file/d/1FvcH3wnR2i6ueJ8PYEJNtwYt7RU6o9fR/view?usp=drive_link))
+[![Watch the Demo](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/blob/e27699f1ae219eb27296e96ec9261d346710958a/Project%20Report%20%5BEurofins%5D/images/financial_analysis_actual_vs_budget_eurofins_clips.gif)]((https://drive.google.com/file/d/1FvcH3wnR2i6ueJ8PYEJNtwYt7RU6o9fR/view?usp=drive_link))
 
 > **Click on the image above** to watch the interactive Power BI walkthrough.
 
 🔹 **[📽️ Full MP4 Walkthrough](https://drive.google.com/file/d/1FvcH3wnR2i6ueJ8PYEJNtwYt7RU6o9fR/view?usp=drive_link)**  
 🔹 **[🎥 PowerPoint Show (PPSX)](https://docs.google.com/presentation/d/1ZKn8VB5ilm3zcugM2kdQ2e59xeQN4NNX/edit?usp=drive_link&ouid=116203234219809078878&rtpof=true&sd=true)**  
+
+---
+
+## 📽️ Dashboard Glimpses (Live) [Dark Mode]
+
+[![Watch the Dark Demo](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/blob/main/Project%20Report%20%5BEurofins%5D/images/dark_mode/financial_analysis_actual_vs_budget_eurofins_clips_dark.gif)]((https://drive.google.com/file/d/1FvcH3wnR2i6ueJ8PYEJNtwYt7RU6o9fR/view?usp=drive_link))
 
 ---
 
