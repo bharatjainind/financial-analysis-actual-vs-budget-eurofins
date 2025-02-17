@@ -23,7 +23,7 @@ This **Power BI report** provides an in-depth **financial analysis** comparing *
 
 ## 📽️ Dashboard Glimpses (Live) [Dark Mode]
 
-[![Watch the Dark Demo](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/blob/main/Project%20Report%20%5BEurofins%5D/images/dark_mode/financial_analysis_actual_vs_budget_eurofins_clips_dark.gif)]((https://drive.google.com/file/d/1FvcH3wnR2i6ueJ8PYEJNtwYt7RU6o9fR/view?usp=drive_link))
+[![Watch the Dark Demo](https://github.com/bharatjainind/financial-analysis-actual-vs-budget-eurofins/blob/main/Project%20Report%20%5BEurofins%5D/images/dark_mode/financial_analysis_actual_vs_budget_eurofins_clips_dark.gif)]((https://youtu.be/LXb3EKWsInQ?si=1Y5sYoAKjbIBBbkN))
 
 ---
 
